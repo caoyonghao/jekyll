@@ -1,1 +1,2 @@
-baseurl: /tushan
+markdown: rdiscount
+pygments: true
